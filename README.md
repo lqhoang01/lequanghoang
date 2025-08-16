@@ -41,7 +41,7 @@ Personal website to showcase skills, projects, and contact information.
 
 ## 📫 Contact Me  
 - ✉️ Email: **lequanghoang1001@gmail.com**  
-- 📱 Phone: **(+84) xxx xxx xxx**  
+- 📱 Phone: **(+84)703026269**  
 
 ---
 
