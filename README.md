@@ -1,21 +1,29 @@
 # 👋 Hi, I'm Le Quang Hoang  
 
-💻 **Software Engineer** | Web Development | Digital Marketing | Content Writing  
+💻 **Software Engineer** Junior Web Developer
+HTML | CSS | JavaScript | React
+Learning Fullstack Development
 
 ---
 
 ## 🚀 About Me  
-- 🎯 Software Engineer passionate about building and deploying **scalable web solutions and software systems**.  
-- 🛠️ Experienced in **web development**, with additional skills in **digital marketing (Facebook/Google Ads)** and **content writing**.  
-- 💡 My goal: to become a **fullstack engineer** who combines programming and marketing to deliver **end-to-end solutions** for businesses.  
+Junior web developer currently studying Software Engineering.
+
+Interested in building responsive websites and learning full-stack development.
+
+Currently working on web projects and improving my JavaScript and React skills.
 
 ---
 
 ## 🛠️ Skill Set  
-- **Software Engineering**: System design & fullstack development  
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express, MySQL  
-- **Marketing**: Facebook Ads, Google Ads, Content Writing  
-- **Tools**: Git, GitHub, VSCode, Figma, Docker, Vercel  
+HTML
+CSS
+JavaScript
+React (learning)
+Git
+GitHub
+VSCode
+Figma (basic)
 
 ---
 
