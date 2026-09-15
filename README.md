@@ -6,7 +6,7 @@
 
 I build practical digital products with a strong focus on **clean UI, reliable functionality, and real-world usability**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lequanghoang-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://porforlio-phi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lequanghoang1001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-lqhoang01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lqhoang01)
 
@@ -55,7 +55,7 @@ A personal portfolio focused on visual storytelling, responsive interactions, an
 
 **Stack:** HTML · CSS · JavaScript
 
-[Repository →](https://github.com/lqhoang01/Porforlio) · [Live Website →](https://lequanghoang-portfolio.vercel.app)
+[Repository →](https://github.com/lqhoang01/Porforlio) · [Main Portfolio →](https://porforlio-phi.vercel.app) · [Creative Portfolio →](https://porforlio-phi.vercel.app/creative.html)
 
 </td>
 <td width="50%" valign="top">
@@ -123,7 +123,7 @@ If you're working on a project, hiring for a junior role, or simply want to talk
 
 <div align="center">
 
-**[Portfolio](https://lequanghoang-portfolio.vercel.app) · [GitHub](https://github.com/lqhoang01) · [Email](mailto:lequanghoang1001@gmail.com)**
+**[Portfolio](https://porforlio-phi.vercel.app) · [GitHub](https://github.com/lqhoang01) · [Email](mailto:lequanghoang1001@gmail.com)**
 
 <br />
 
